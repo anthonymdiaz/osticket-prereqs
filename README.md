@@ -31,8 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="![image](https://github.com/anthonymdiaz/osticket-prereqs/assets/167942930/a930d370-cae9-424b-a86f-7eeac5517715)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=![image](https://github.com/anthonymdiaz/osticket-prereqs/assets/167942930/6bfe30b4-777a-4746-920c-fc3d3beb7bf4)
 </p>
 <p>
 1. Azure Virtual Machine Configuration:
