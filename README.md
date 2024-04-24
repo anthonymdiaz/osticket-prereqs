@@ -39,8 +39,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    - Provide the following details:
      - Name: Vm-osticket
      - Username: labuser
-     - Password: Password1![image](https://github.com/anthonymdiaz/osticket-prereqs/assets/167942930/53212991-7a90-4aab-94df-edd47dcd6e21)
-
+     - Password: Password1!
 </p>
 <br />
 
