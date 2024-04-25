@@ -45,7 +45,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 2. Access Installation Files:
 Access the provided Installation Files.
-</p>
+
+[https://drive.google.com/file/d/1V5IFpeEn9zLB3ITUaHP28vAFcFCHdhhx/view?usp=sharing
+](https://drive.google.com/file/d/1V5IFpeEn9zLB3ITUaHP28vAFcFCHdhhx/view?usp=sharing)</p>
 <br />
 
 <p>
