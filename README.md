@@ -38,11 +38,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
      - Create a password you will remember
 </p>
 <br />
+<p>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+   ![image](https://github.com/anthonymdiaz/osticket-prereqs/assets/167942930/e254f324-724d-4cde-a004-5f34708044a2)
+   
 2. Access Installation Files:
 Access the provided Installation Files.
 
@@ -50,15 +49,20 @@ Access the provided Installation Files.
 ](https://drive.google.com/drive/folders/1V1NK4OMUUETnsSdhRddFZSk5hRfYo1qw?usp=sharing)</p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/anthonymdiaz/osticket-prereqs/assets/167942930/18872d9e-6b15-423a-abb8-b6e51f5fd58b)
+
 <p>
 3. IIS Installation:
 Enable IIS on Windows with CGI and Common HTTP Features:
 World Wide Web Services -> Application Development Features ->
-[X] CGI
+
+   
+   [X] CGI
+
+
 [X] Common HTTP Features
+
+
 Ensure the inclusion of IIS Management Console under Internet Information Services -> Web Management Tools -> IIS Management Console.
 </p>
 <br />
